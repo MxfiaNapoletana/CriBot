@@ -1,0 +1,22 @@
+{
+  "120363422817467352@g.us_393517339218@s.whatsapp.net": {
+    "warns": [
+      {
+        "reason": "Tentativo di mutare il proprietario del gruppo",
+        "timestamp": 1768079841246,
+        "date": "10/01/2026, 21:17:21"
+      },
+      {
+        "reason": "Tentativo di mutare il proprietario del gruppo",
+        "timestamp": 1768079890254,
+        "date": "10/01/2026, 21:18:10"
+      },
+      {
+        "reason": "Tentativo di mutare il proprietario del gruppo",
+        "timestamp": 1768079931454,
+        "date": "10/01/2026, 21:18:51"
+      }
+    ],
+    "total": 3
+  }
+}
